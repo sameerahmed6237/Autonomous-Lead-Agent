@@ -15,7 +15,7 @@ An intelligent agent built with n8n that automates the qualification of biotech 
 3.  Run the workflow.
 
 ## Video
-Demo(https://drive.google.com/drive/folders/1xMHzIVOFvt_ptOrLLs1zuVnHkKxA3IZJ?usp=sharing)
+Demo[https://drive.google.com/drive/folders/1xMHzIVOFvt_ptOrLLs1zuVnHkKxA3IZJ?usp=sharing]
 
 ## Spreadsheet
-Google Sheets(https://docs.google.com/spreadsheets/d/1Uvs05OAai_olmbxu2EC5Zl7oheEQRhabH77jQEke5fE/edit?usp=sharing)
+Google Sheets[https://docs.google.com/spreadsheets/d/1Uvs05OAai_olmbxu2EC5Zl7oheEQRhabH77jQEke5fE/edit?usp=sharing]
